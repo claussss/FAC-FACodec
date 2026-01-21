@@ -4,7 +4,7 @@
 [![Demo](https://img.shields.io/badge/Demo-Page-blue)](https://claussss.github.io/accent_control_demo/)
 
 
-This repository provides the code for the FAC-FACodec project. We train a non-autoregressive denoising transformer conditioned on phoneme features to perform accent conversion using FACodec representations.
+This repository provides the code for the FAC-FACodec project.
 
 ## 🎧 Demo
 
