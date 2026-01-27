@@ -20,7 +20,7 @@ Listen to samples on our [**Demo Page**](https://claussss.github.io/accent_contr
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/claussss/FAC-FACodec.git
 cd Controlled_AC
 ```
 
